@@ -52,6 +52,7 @@ system, with all developers working on the same set of development objects at th
   * L & T InfoTech
   * Delloite
   * KPMG
+  * jsr
 
 ### References ###
   1. TAW10 ABAP Workbench Fundamentals – Part 1 by SAP INDIA.
